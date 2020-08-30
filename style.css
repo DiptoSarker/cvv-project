@@ -1,0 +1,28 @@
+*{
+    margin: o;
+    padding: 0;
+}
+
+.background
+{
+    width: 100%;
+    height: 100vh;
+    background-image: url('123.jpg');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.profile
+{
+    width: 400px;
+    padding: 10px;
+
+}
+img{
+    height: 500px;
+     border-radius: 50%;
+}
+i{
+    color: black;
+}
